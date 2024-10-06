@@ -1,0 +1,3 @@
+1. Use the base branch dropdown menu to select the branch you'd like to merge your changes into,then use the compare branch drop-down menu to choose the topic branch you made your changes in.
+Type a title and description for your pull request.
+To create a pull request that is ready for review, click Create Pull Request.
